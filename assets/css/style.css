@@ -1,0 +1,151 @@
+html {
+    box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+body{
+    font-family: 'Raleway', sans-serif;
+    background-color: #000;
+}
+
+.principal{
+    margin: 0 auto;
+    width: 90%;
+    /* max-width: 1280px; */
+}
+
+/* header{
+    width: 100%;
+} */
+
+h1{
+    margin: 0;
+    font-size: 50px;
+    font-weight: 300;
+}
+
+
+.bg-header{
+    vertical-align: top;
+}
+
+/* main{
+    width: 100%;
+} */
+
+main .descripcion{
+    max-width: 80%;
+    margin: 0 auto;
+    padding: 45px 0;
+}
+
+h2{
+    margin: 0;
+    font-size: 40px;
+}
+
+footer p a{
+    text-decoration: none;
+    color: #fff;
+}
+
+.bg-dark{
+    background-color: #000;
+}
+
+.bg-cafe-dark{
+    background-color: #1E1A13;
+}
+
+.text-white{
+    color: #fff;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.text-right{
+    text-align: right;
+}
+
+.float-right{
+    float: left;
+}
+
+.inline-block{
+    display: inline-block;
+}
+
+.w-33{
+    width: 33%;
+}
+
+.w-49{
+    width: 49%;
+}
+
+.w-80{
+    width: 80%;
+}
+
+.w-100{
+    width: 100%;
+}
+
+.h-200{
+    height: 200px;
+}
+
+.fz-16{
+    font-size: 16px;
+}
+
+.fz-20{
+    font-size: 20px;
+}
+
+.fz-24{
+    font-size: 24px;
+}
+
+.fz-55{
+    font-size: 55px;
+}
+
+.vertical-align{
+    vertical-align: middle;
+}
+
+.raleway-ligth{
+    font-weight: 300;
+}
+
+.raleway-medium{
+    font-weight: 500;
+}
+
+.pd-75{
+    padding: 75px 0;
+}
+
+.pd-20{
+    padding: 20px 0;
+}
+
+.pd-40{
+    padding: 40px 0;
+}
+
+.pd-top-50{
+    padding-top: 50px;
+}
+
+.margin-0{
+    margin: 0;
+}
